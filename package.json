@@ -1,0 +1,19 @@
+{
+  "name": "chatset",
+  "version": "1.0.0",
+  "description": "Chat API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DenDen747/Chatset.git"
+  },
+  "author": "Denes Garda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DenDen747/Chatset/issues"
+  },
+  "homepage": "https://github.com/DenDen747/Chatset#readme"
+}
