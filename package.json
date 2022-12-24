@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/DenDen747/Chatset/issues"
   },
-  "homepage": "https://github.com/DenDen747/Chatset#readme"
+  "homepage": "https://github.com/DenDen747/Chatset#readme",
+  "dependencies": {
+    "jsql": "github:DenDen747/jsql"
+  }
 }
