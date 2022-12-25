@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/DenDen747/Chatset#readme",
   "dependencies": {
+    "express": "^4.18.2",
     "jsql": "github:DenDen747/jsql"
   }
 }
